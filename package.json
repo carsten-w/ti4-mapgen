@@ -1,5 +1,5 @@
 {
-  "homepage": "https://keeganw.github.io/ti4/",
+  "homepage": "https://carsten-w.github.io/ti4-mapgen/",
   "name": "ti4",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "react-bootstrap-icons": "^1.1.0",
     "react-component-export-image": "^1.0.5",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^5.0.1",
     "react-tooltip": "^4.2.11",
     "web-vitals": "^0.2.4"
   },
