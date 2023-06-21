@@ -3,7 +3,7 @@ A web tool to generate Twilight Imperium 4 game boards through many custom setti
 
 ## Web Quick Start
 
-Visit the [web page located on github pages](https://keeganw.github.io/ti4/). This is running from the `gh-pages` branch.
+Visit the [web page located on github pages](https://carsten-w.github.io/ti4-mapgen/). This is running from the `gh-pages` branch.
 
 ## Development Setup
 
